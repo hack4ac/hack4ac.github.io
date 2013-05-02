@@ -1,0 +1,20 @@
+
+
+.well {
+    padding: 16px 12px;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    margin: 15px 0;
+}
+
+.well-lime {
+    background: #CCF9BB;
+    color: #333;
+}
+
+.well .header {
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 22px;
+    margin-bottom:12px;
+}
